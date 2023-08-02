@@ -14,15 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Eu sou o Breno, sou um programador Front End, atualmente estou aprendendo a criar projetos com: 
+Eu sou o Breno, um admirador da programação e apaixonado por tecnologia. Sempre buscando aprender coisas novas e colaborar com projetos interessantes.
 <br>
 <br>
-&nbsp; &nbsp; &nbsp; &nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"><br>
-&nbsp; &nbsp; &nbsp; &nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="html-logo"><br>
-&nbsp; &nbsp; &nbsp; &nbsp;<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="java-script-logo">
+<br>
+&nbsp; &nbsp; Principais Linguagens:<br><br>
+&nbsp; &nbsp; &nbsp; &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenodePaiva&theme=blue-green">
+<br>
+<br>
+<br>
+&nbsp; &nbsp; Projetos Destacados:
+<br>
+<br>
+&nbsp; &nbsp; 1. Projeto Conversor de Moeda<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Descrição: Um aplicativo web para converte moedas. Moedas disponíveis: Real, Dolar, Libra, Bitcoin, Euro <br>
+&nbsp; &nbsp; &nbsp; &nbsp; Repositório: https://github.com/BrenodePaiva/Currency-convertor
 <br>
 <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=BrenodePaiva&theme=blue-green">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenodePaiva&theme=blue-green">
+
