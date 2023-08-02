@@ -27,8 +27,16 @@ Eu sou o Breno, um admirador da programação e apaixonado por tecnologia. Sempr
 <br>
 <br>
 &nbsp; &nbsp; 1. Projeto Conversor de Moeda<br>
-&nbsp; &nbsp; &nbsp; &nbsp; Descrição: Um aplicativo web para converte moedas. Moedas disponíveis: Real, Dolar, Libra, Bitcoin, Euro <br>
-&nbsp; &nbsp; &nbsp; &nbsp; Repositório: https://github.com/BrenodePaiva/Currency-convertor
+&nbsp; &nbsp; &nbsp; &nbsp; -Descrição: Um aplicativo web para converte moedas. Moedas disponíveis: Real, Dolar, Libra, Bitcoin, Euro. <br>
+&nbsp; &nbsp; &nbsp; &nbsp; -Repositório: https://github.com/BrenodePaiva/Currency-convertor
+<br>
+<br>
+<br>
+&nbsp; &nbsp; 2. Projeto Jokenpô<br>
+&nbsp; &nbsp; &nbsp; &nbsp; -Descrição: Um aplicativo web para você jogar pedra, papel e tesoura com uma máquina.<br>
+&nbsp; &nbsp; &nbsp; &nbsp; -Repositório: https://github.com/BrenodePaiva/jokenpo-project
+<br>
+<br>
 <br>
 <br>
 <br>
