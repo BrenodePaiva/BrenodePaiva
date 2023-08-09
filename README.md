@@ -27,7 +27,7 @@ Eu sou o Breno, um admirador da programação e apaixonado por tecnologia. Sempr
 <br>
 <br>
 &nbsp; &nbsp; 1. Projeto Conversor de Moeda<br>
-&nbsp; &nbsp; &nbsp; &nbsp; -Descrição: Um aplicativo web para converte moedas. API ultilizada: api.invertexto.com. Moedas disponíveis: Real, Dolar, Libra, Euro. <br>
+&nbsp; &nbsp; &nbsp; &nbsp; -Descrição: Um aplicativo web para converte moedas. API utilizada: api.invertexto.com. Moedas disponíveis: Real, Dolar, Libra, Euro. <br>
 &nbsp; &nbsp; &nbsp; &nbsp; -Repositório: https://github.com/BrenodePaiva/Currency-convertor
 <br>
 <br>
