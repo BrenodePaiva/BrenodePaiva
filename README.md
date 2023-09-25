@@ -38,6 +38,12 @@ Eu sou o Breno, um admirador da programação e apaixonado por tecnologia. Sempr
 <br>
 <br>
 <br>
+&nbsp; &nbsp; 3. Projeto CodeBurger<br>
+&nbsp; &nbsp; &nbsp; &nbsp; -Descrição: Um aplicativo web de uma hamburgueria para fazer pedidos (user admin: online@mail.com  123456).<br>
+&nbsp; &nbsp; &nbsp; &nbsp; -Link: https://code-burger-interface-rho.vercel.app
+<br>
+<br>
+<br>
 <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=BrenodePaiva&theme=blue-green">
