@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Eu sou o Breno, Programador com foco em desenvolvimento web, habilidoso em solucionar problemas e sempre buscando aprender coisas novas. Possuo conhecimentos em tecnologias como HTML, CSS, JavaScript, React, Node, PostgreSQL, MongoDB e Docker além de familiaridade com conceitos de lógica de programação. Sou pró-ativo, colaborativo e estou pronto para enfrentar desafios e adquirir novas habilidades no campo da programação. 
+Eu sou Breno, um programador com foco em desenvolvimento web, habilidoso em solucionar problemas e sempre buscando aprender coisas novas. Possuo conhecimentos em tecnologias como HTML, CSS, JavaScript, React, Node, PostgreSQL, MongoDB e Docker além de familiaridade com conceitos de lógica de programação. Sou pró-ativo, colaborativo e estou pronto para enfrentar desafios e adquirir novas habilidades no campo da programação. 
 
 <br>
 <br>
