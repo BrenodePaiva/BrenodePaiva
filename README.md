@@ -11,6 +11,8 @@
 </a>
 <a href="https://www.brenofullstack.com"><img src="https://img.shields.io/badge/-Portfólio-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
 <a href="mailto:brenopaiva552@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.brenofullstack.com"><img src="https://img.shields.io/badge/-Portfólio-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
+<a href="mailto:brenopaiva552@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
