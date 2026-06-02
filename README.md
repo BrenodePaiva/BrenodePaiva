@@ -9,8 +9,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/brenodepaiva">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" />
-  <img src="https://img.shields.io/badge/Breno%20Paiva-0077B5?style=flat-square" alt="LinkedIn Badge" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" /><img src="https://img.shields.io/badge/Breno%20Paiva-0077B5?style=flat-square" alt="LinkedIn Badge" />
 </a>
 
 <a href="https://www.brenofullstack.com"><img src="https://img.shields.io/badge/-Portfólio-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
