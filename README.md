@@ -50,4 +50,4 @@ Se você quiser entrar em contato, colaborar ou tiver alguma dúvida, fique à v
 
 <h2>🚀 &nbsp;Minhas estatísticas do GitHub</h2>
 
-![Breno de Paiva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrenodePaiva&show_icons=true&theme=dracula)
+![Breno de Paiva's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BrenodePaiva&show_icons=true&theme=dracula)
