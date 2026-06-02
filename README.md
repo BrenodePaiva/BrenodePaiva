@@ -9,10 +9,17 @@
 <a href="mailto:brenopaiva552@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat-square"/>
 </a>
-<a href="https://www.brenofullstack.com"><img src="https://img.shields.io/badge/-Portfólio-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
-<a href="mailto:brenopaiva552@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.brenofullstack.com"><img src="https://img.shields.io/badge/-Portfólio-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
-<a href="mailto:brenopaiva552@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.brenofullstack.com">
+  <img src="https://img.shields.io/badge/Portfólio-24292F?style=flat-square"/>
+</a>
+<a href="https://www.brenofullstack.com">
+  <img src="https://img.shields.io/badge/Portfólio-6B7280?style=flat-square"/>
+</a>
+
+
+<a href="https://www.linkedin.com/in/brenodepaiva"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square"/></a>
+<a href="https://www.brenofullstack.com"><img src="https://img.shields.io/badge/-Portfólio-4B5563?style=flat-square"/></a>
+<a href="mailto:brenopaiva552@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square"/></a>
 
 </p>
 
