@@ -1,6 +1,33 @@
 <h1>👋 &nbsp;Olá, eu sou Breno de Paiva, um desenvolvedor Full Stack</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/brenodepaiva"><img src="https://img.shields.io/badge/-Breno%20de%20Paiva-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/brenodepaiva">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/brenodepaiva">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/brenodepaiva">
+  <img src="https://img.shields.io/badge/LinkedIn-Breno%20Paiva-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/brenodepaiva">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/brenodepaiva">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/brenodepaiva">
+  <img src="https://img.shields.io/badge/LinkedIn-Breno%20Paiva-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/brenodepaiva">
+    <img src="https://cdn.simpleicons.org/linkedin" width="30" />
+  </a>
+
 <a href="https://www.brenofullstack.com"><img src="https://img.shields.io/badge/-Portfólio-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
 <a href="mailto:brenopaiva552@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
