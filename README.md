@@ -1,11 +1,15 @@
 <h1>👋 &nbsp;Olá, eu sou Breno de Paiva, um desenvolvedor Full Stack</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/brenodepaiva">
-  <img src="https://img.shields.io/badge/LinkedIn-Breno%20Paiva-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Breno%20Paiva-0077B5?style=flat-square"/>
 </a>
 
-<a href="https://www.linkedin.com/in/brenodepaiva">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
+<a href="https://www.brenofullstack.com">
+  <img src="https://img.shields.io/badge/Portfólio-D62422?style=flat-square"/>
+</a>
+
+<a href="mailto:brenopaiva552@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square"/>
 </a>
 
 <a href="https://www.linkedin.com/in/brenodepaiva">
